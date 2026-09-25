@@ -5,6 +5,8 @@
 *.pem
 *.key
 
+.codegraph
+
 # Python
 __pycache__/
 *.py[cod]
